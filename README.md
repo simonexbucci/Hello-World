@@ -1,5 +1,4 @@
 # Hello-World
-The standard repository to get started with Github
 
 I'm Simone, italian, 27 years old.
 I'll start with a fun fact about me: when I was a child I was so obsessed with DragonBall, that I had to look the daily audience number it had on "Italia 1", the tv channel where it was streamed. I always hoped it was on the top! Well, it wasn't very often, as the night tv show was the most viewed. By the way, DragonBall scored quite often in the first 3 positions, competing with the Simpsons and Futurama. 
